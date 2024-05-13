@@ -1,4 +1,4 @@
-**Software Serial Code**
+#Software Serial Code
 ```c++
 #include <SoftwareSerial.h>
 #include "pins_arduino.h"
